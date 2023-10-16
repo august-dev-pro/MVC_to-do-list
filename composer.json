@@ -1,0 +1,16 @@
+{
+    "name": "hp/mvc_to-do-list",
+    "description": "to do list web and MVC",
+    "autoload": {
+        "psr-4": {
+        "August\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "august-dev-pro",
+            "email": "augustinselete01@gmail.com"
+        }
+    ],
+    "require": {}
+}
